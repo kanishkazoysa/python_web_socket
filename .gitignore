@@ -1,0 +1,17 @@
+/.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.python-version
+.env
+.env.*
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+dist/
+build/
+*.log
+*.sqlite3
+*.db
